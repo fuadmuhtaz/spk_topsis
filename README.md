@@ -1,4 +1,4 @@
-# spk_saw
+# spk_topsis
 Aplikasi SPK dengan Metode TOPSIS
 
 System requirements :
